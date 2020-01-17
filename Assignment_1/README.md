@@ -12,6 +12,6 @@ Complete the Jupyter notebook in this repository using one of two options (your 
 
 * To complete the assignment, clone the Assignments repository in your pangeo home directory and open the intro_to_python.ipynb. From your home directory /home/Joyvan (you'll start here):
 
-```git clone https://github.com/DS4Earth/Assignments.git```
+  ```git clone https://github.com/DS4Earth/Assignments.git```
 
 
