@@ -11,6 +11,7 @@ Complete the Jupyter notebook in this repository using one of two options (your 
 * You will need to initially login to the pangeo server with your UNC (or Google) account information. Search for UNC Chapel Hill if using your UNC credentials, or simply use Google account. Once you've logged in, you will have a persistent Jupyter Lab environment. It should be retained from session to session. However to avoid losing work, please be sure to push changes to github frequently.
 
 * To complete the assignment, clone the Assignments repository in your pangeo home directory and open the intro_to_python.ipynb. From your home directory /home/Joyvan (you'll start here):
+
 ```git clone https://github.com/DS4Earth/Assignments.git```
 
 
